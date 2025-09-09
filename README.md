@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Trần Quang Định, MSSV 226321.
+Đây là README từ nhánh main.
